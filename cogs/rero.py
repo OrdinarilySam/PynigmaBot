@@ -40,22 +40,11 @@ class Rero(commands.Cog):
         self.client = client
     
 
-    # Commands
-
-    # sends a message to react to or adds a reaction to a message the user chooses
-    # @commands.command()
-    # async def rero(self, ctx, ogmessage: commands.MessageConverter=None):
-    #     if not ogmessage:
-    #         message = await ctx.send('React to this to get a role')
-    #         await message.add_reaction('✅')
-    #     else:
-    #         await ogmessage.add_reaction('✅')
 
 
 
 
-
-
+# COMMANDS
     @commands.command()
     async def init(self, ctx):
         #deletes the original message
@@ -223,18 +212,6 @@ class Rero(commands.Cog):
             role_list.append(temp_role)
 
         await ctx.send(role_list)
-
-
-
-    # Event listeners for reaction add and remove
-
-    # THIS CODE STILL WORKS
-    # @commands.Cog.listener()
-    # async def on_reaction_add(self, reaction, user):
-    #     if user.id == 983516379619672154:
-    #         return
-    #     if reaction.emoji == '✅':
-    #         await user.add_roles(get(reaction.message.guild.roles, id=test_role))
 
 
 
