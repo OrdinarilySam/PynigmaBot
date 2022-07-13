@@ -15,7 +15,8 @@ class Translate(commands.Cog):
     @commands.command()
     async def translate(self, ctx, *, message):
         #await ctx.send("Hello")
-        ctx.send(str(translator.translate(message)))
+        await ctx.send(type(message))
+        #await ctx.send(str(translator.translate(message)))
 
     
 def setup(client):
