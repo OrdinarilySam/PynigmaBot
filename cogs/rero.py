@@ -115,7 +115,7 @@ class Rero(commands.Cog):
             json_rw(inp=data)
 
     @commands.command()
-    async def delcat(self, ctx, *, embed_category='default'):
+    async def remcat(self, ctx, *, embed_category='default'):
         init = json_rw(embed_category)
         if init['category_name'].lower() == embed_category.lower():
             channel = get(ctx.guild.text_channels, id=init["channel_id"])
