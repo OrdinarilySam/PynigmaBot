@@ -1,11 +1,10 @@
+from asyncio import to_thread
 import discord
 from discord.ext import commands
-from googletrans import Translator
+import translators as ts
+import json
 
-# NOT WORKING RIGHT NOW
 
-
-translator = Translator(service_urls='translate.google.com')
 
 class Translate(commands.Cog):
 
@@ -13,10 +12,23 @@ class Translate(commands.Cog):
         self.client = client
 
     @commands.command()
-    async def translate(self, ctx, *, message):
-        #await ctx.send("Hello")
-        await ctx.send(type(message))
-        #await ctx.send(str(translator.translate(message)))
+    async def translate(self, ctx, language, *, message=None):
+        print("command started with language", language)
+        file = open("data/languages.json", "r")
+        data = json.load(file)
+        file.close()
+        print(language)
+        for lang in data:
+            print("starting detection on language", lang['name'])
+            if lang['code'] == language.lower() or lang['name'].lower() == language.lower():
+                print("match found")
+                await ctx.send(str(ts.google(message, to_language=lang['code'])))
+                return
+        if not message:
+            message = language
+        else:
+            message = language + message
+        await ctx.send(str(ts.google(message, to_language='en')))
 
     
 def setup(client):
