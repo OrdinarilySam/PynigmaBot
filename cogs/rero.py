@@ -171,7 +171,6 @@ class Rero(commands.Cog):
         # adds the role and emoji to the file
         
         init['roles'].append(to_add)
-        print(init)
         json_rw(embed_category, init)
 
         # edits the embed to add the reaction
