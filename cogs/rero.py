@@ -51,17 +51,6 @@ def json_rw(needed='data', inp=None, remove=False):
                 return
 
 
-# OLD CODE
-# if data == None:
-#         file = open("data/rero.json", "r")
-#         data = json.load(file)
-#         file.close()
-#         return data
-#     else:
-#         file = open("data/rero.json", "w")
-#         file.write(json.dumps(data, indent=2))
-#         file.close()
-
 
 class Rero(commands.Cog):
 
@@ -275,14 +264,6 @@ class Rero(commands.Cog):
                         return
 
         
-
-
-
-        # if payload.message_id == data['message_id']:
-        #     for role in data['roles']:
-        #         if str(payload.emoji) == role['role_emoji']:
-        #             await member.add_roles(get(guild.roles, id=role['role_id']))
-   
     @commands.Cog.listener()
     async def on_raw_reaction_remove(self, payload):
         if payload.user_id == 983516379619672154:
