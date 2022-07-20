@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Japanese",
+    "code": "ja",
+    "emojis": ["🇯🇵"]
+  },
+  {
+    "name": "English",
+    "code": "en",
+    "emojis": ["🇦🇺", "🇨🇦", "🇮🇪", "🇬🇧", "🇺🇸"]
+  },
+  {
+    "name": "Spanish",
+    "code": "es",
+    "emojis": ["🇪🇸", "🇲🇽"]
+  },
+  {
+    "name": "Korean",
+    "code": "ko"
+  },
+  {
+    "name": "French",
+    "code": "fr"
+  },
+  {
+    "name": "Russian",
+    "code": "ru"
+  }
+]
