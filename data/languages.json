@@ -7,7 +7,7 @@
   {
     "name": "Albanian",
     "code": "sq",
-    "emojis": []
+    "emojis": ["🇦🇱"]
   },
   {
     "name": "Amharic",
@@ -17,17 +17,17 @@
   {
     "name": "Arabic",
     "code": "ar",
-    "emojis": []
+    "emojis": ["🇧🇭"]
   },
   {
     "name": "Armenian",
     "code": "hy",
-    "emojis": []
+    "emojis": ["🇦🇲"]
   },
   {
     "name": "Azerbaijani",
     "code": "az",
-    "emojis": []
+    "emojis": ["🇦🇿"]
   },
   {
     "name": "Basque",
@@ -37,17 +37,17 @@
   {
     "name": "Belarusian",
     "code": "be",
-    "emojis": []
+    "emojis": ["🇧🇾"]
   },
   {
     "name": "Bengali",
     "code": "bn",
-    "emojis": []
+    "emojis": ["🇧🇩"]
   },
   {
     "name": "Bosnian",
     "code": "bs",
-    "emojis": []
+    "emojis": ["🇧🇦"]
   },
   {
     "name": "Bulgarian",
@@ -57,7 +57,7 @@
   {
     "name": "Catalan",
     "code": "ca",
-    "emojis": []
+    "emojis": ["🇦🇩"]
   },
   {
     "name": "Cebuano",
@@ -92,12 +92,12 @@
   {
     "name": "Dutch",
     "code": "nl",
-    "emojis": []
+    "emojis": ["🇦🇼", "🇧🇪", "🇧🇶"]
   },
   {
     "name": "English",
     "code": "en",
-    "emojis": ["🇦🇺", "🇨🇦", "🇬🇧", "🇺🇸"]
+    "emojis": ["🇦🇺", "🇨🇦", "🇬🇧", "🇺🇸", "🇧🇸", "🇧🇧", "🇧🇿", "🇧🇼"]
   },
   {
     "name": "Esperanto",
@@ -117,7 +117,7 @@
   {
     "name": "French",
     "code": "fr",
-    "emojis": []
+    "emojis": ["🇧🇯"]
   },
   {
     "name": "Frisian",
@@ -137,7 +137,7 @@
   {
     "name": "German",
     "code": "de",
-    "emojis": []
+    "emojis": ["🇦🇹"]
   },
   {
     "name": "Greek",
@@ -327,7 +327,7 @@
   {
     "name": "Nepali",
     "code": "ne",
-    "emojis": []
+    "emojis": ["🇧🇹"]
   },
   {
     "name": "Norwegian",
@@ -347,7 +347,7 @@
   {
     "name": "Pashto",
     "code": "ps",
-    "emojis": []
+    "emojis": ["🇦🇫"]
   },
   {
     "name": "Persian",
@@ -362,7 +362,7 @@
   {
     "name": "Portuguese",
     "code": "pt",
-    "emojis": []
+    "emojis": ["🇦🇴", "🇧🇲"]
   },
   {
     "name": "Punjabi",
@@ -382,7 +382,7 @@
   {
     "name": "Samoan",
     "code": "sm",
-    "emojis": []
+    "emojis": ["🇦🇸"]
   },
   {
     "name": "Scots Gaelic",
@@ -432,7 +432,7 @@
   {
     "name": "Spanish",
     "code": "es",
-    "emojis": ["🇪🇸", "🇲🇽"]
+    "emojis": ["🇪🇸", "🇲🇽", "🇦🇬", "🇦🇷", "🇧🇴"]
   },
   {
     "name": "Sundanese",
@@ -447,12 +447,7 @@
   {
     "name": "Swedish",
     "code": "sv",
-    "emojis": []
-  },
-  {
-    "name": "Swedish",
-    "code": "sv",
-    "emojis": []
+    "emojis": ["🇦🇽"]
   },
   {
     "name": "Tagalog",
