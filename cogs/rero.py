@@ -1,12 +1,9 @@
-from socket import timeout
-from attr import fields
 import discord
 from discord.ext import commands
 from discord.utils import get
 import json
 import os
 import asyncio
-from asyncio import sleep
 
 test_role = 984555378962481213
 
