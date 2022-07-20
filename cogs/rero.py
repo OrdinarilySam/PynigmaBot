@@ -251,6 +251,8 @@ class Rero(commands.Cog):
     async def on_raw_reaction_add(self, payload):
         if payload.user_id == 983516379619672154:
             return
+        if not checkjsonfile():
+            return
         client = self.client
         guild = client.get_guild(payload.guild_id)
         member = guild.get_member(payload.user_id)
@@ -267,6 +269,8 @@ class Rero(commands.Cog):
     @commands.Cog.listener()
     async def on_raw_reaction_remove(self, payload):
         if payload.user_id == 983516379619672154:
+            return
+        if not checkjsonfile():
             return
         client = self.client
         guild = client.get_guild(payload.guild_id)
