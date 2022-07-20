@@ -275,6 +275,9 @@ class Rero(commands.Cog):
                 for role in init['roles']:
                     if str(payload.emoji) == role['role_emoji']:
                         await member.add_roles(get(guild.roles, id=role['role_id']))
+                        return
+
+        
 
 
 
@@ -297,6 +300,7 @@ class Rero(commands.Cog):
                 for role in init['roles']:
                     if str(payload.emoji) == role['role_emoji']:
                         await member.remove_roles(get(guild.roles, id=role['role_id']))
+                        return
 
 
 
