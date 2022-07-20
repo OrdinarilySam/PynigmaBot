@@ -1,13 +1,433 @@
 [
   {
+    "name": "Afrikaans",
+    "code": "af",
+    "emojis": []
+  },
+  {
+    "name": "Albanian",
+    "code": "sq",
+    "emojis": []
+  },
+  {
+    "name": "Amharic",
+    "code": "am",
+    "emojis": []
+  },
+  {
+    "name": "Arabic",
+    "code": "ar",
+    "emojis": []
+  },
+  {
+    "name": "Armenian",
+    "code": "hy",
+    "emojis": []
+  },
+  {
+    "name": "Azerbaijani",
+    "code": "az",
+    "emojis": []
+  },
+  {
+    "name": "Basque",
+    "code": "eu",
+    "emojis": []
+  },
+  {
+    "name": "Belarusian",
+    "code": "be",
+    "emojis": []
+  },
+  {
+    "name": "Bengali",
+    "code": "bn",
+    "emojis": []
+  },
+  {
+    "name": "Bosnian",
+    "code": "bs",
+    "emojis": []
+  },
+  {
+    "name": "Bulgarian",
+    "code": "bg",
+    "emojis": []
+  },
+  {
+    "name": "Catalan",
+    "code": "ca",
+    "emojis": []
+  },
+  {
+    "name": "Cebuano",
+    "code": "ceb",
+    "emojis": []
+  },
+  {
+    "name": "Chinese",
+    "code": "zh",
+    "emojis": []
+  },
+  {
+    "name": "Corsican",
+    "code": "co",
+    "emojis": []
+  },
+  {
+    "name": "Croatian",
+    "code": "hr",
+    "emojis": []
+  },
+  {
+    "name": "Czech",
+    "code": "cs",
+    "emojis": []
+  },
+  {
+    "name": "Danish",
+    "code": "da",
+    "emojis": []
+  },
+  {
+    "name": "Dutch",
+    "code": "nl",
+    "emojis": []
+  },
+  {
+    "name": "English",
+    "code": "en",
+    "emojis": ["🇦🇺", "🇨🇦", "🇬🇧", "🇺🇸"]
+  },
+  {
+    "name": "Esperanto",
+    "code": "eo",
+    "emojis": []
+  },
+  {
+    "name": "Estonian",
+    "code": "et",
+    "emojis": []
+  },
+  {
+    "name": "Finnish",
+    "code": "fi",
+    "emojis": []
+  },
+  {
+    "name": "French",
+    "code": "fr",
+    "emojis": []
+  },
+  {
+    "name": "Frisian",
+    "code": "fy",
+    "emojis": []
+  },
+  {
+    "name": "Galician",
+    "code": "gl",
+    "emojis": []
+  },
+  {
+    "name": "Georgian",
+    "code": "ka",
+    "emojis": []
+  },
+  {
+    "name": "German",
+    "code": "de",
+    "emojis": []
+  },
+  {
+    "name": "Greek",
+    "code": "el",
+    "emojis": []
+  },
+  {
+    "name": "Gujarati",
+    "code": "gu",
+    "emojis": []
+  },
+  {
+    "name": "Haitian Creole",
+    "code": "ht",
+    "emojis": []
+  },
+  {
+    "name": "Hausa",
+    "code": "ha",
+    "emojis": []
+  },
+  {
+    "name": "Hawaiian",
+    "code": "haw",
+    "emojis": []
+  },
+  {
+    "name": "Hebrew",
+    "code": "he",
+    "emojis": []
+  },
+  {
+    "name": "Hindi",
+    "code": "hi",
+    "emojis": []
+  },
+  {
+    "name": "Hmong",
+    "code": "hmn",
+    "emojis": []
+  },
+  {
+    "name": "Hungarian",
+    "code": "hu",
+    "emojis": []
+  },
+  {
+    "name": "Icelandic",
+    "code": "is",
+    "emojis": []
+  },
+  {
+    "name": "Igbo",
+    "code": "ig",
+    "emojis": []
+  },
+  {
+    "name": "Indonesian",
+    "code": "id",
+    "emojis": []
+  },
+  {
+    "name": "Irish",
+    "code": "ga",
+    "emojis": []
+  },
+  {
+    "name": "Italian",
+    "code": "it",
+    "emojis": []
+  },
+  {
     "name": "Japanese",
     "code": "ja",
     "emojis": ["🇯🇵"]
   },
   {
-    "name": "English",
-    "code": "en",
-    "emojis": ["🇦🇺", "🇨🇦", "🇮🇪", "🇬🇧", "🇺🇸"]
+    "name": "Javanese",
+    "code": "jv",
+    "emojis": []
+  },
+  {
+    "name": "Kannada",
+    "code": "kn",
+    "emojis": []
+  },
+  {
+    "name": "Kazakh",
+    "code": "kk",
+    "emojis": []
+  },
+  {
+    "name": "Khmer",
+    "code": "km",
+    "emojis": []
+  },
+  {
+    "name": "Kinyarwanda",
+    "code": "rw",
+    "emojis": []
+  },
+  {
+    "name": "Korean",
+    "code": "ko",
+    "emojis": []
+  },
+  {
+    "name": "Kurdish",
+    "code": "ku",
+    "emojis": []
+  },
+  {
+    "name": "Kyrgyz",
+    "code": "ky",
+    "emojis": []
+  },
+  {
+    "name": "Lao",
+    "code": "lo",
+    "emojis": []
+  },
+  {
+    "name": "Latin",
+    "code": "la",
+    "emojis": []
+  },
+  {
+    "name": "Latvian",
+    "code": "lv",
+    "emojis": []
+  },
+  {
+    "name": "Lithuanian",
+    "code": "lt",
+    "emojis": []
+  },
+  {
+    "name": "Luxembourgish",
+    "code": "lb",
+    "emojis": []
+  },
+  {
+    "name": "Macedonian",
+    "code": "mk",
+    "emojis": []
+  },
+  {
+    "name": "Malagasy",
+    "code": "mg",
+    "emojis": []
+  },
+  {
+    "name": "Malay",
+    "code": "ms",
+    "emojis": []
+  },
+  {
+    "name": "Malayalam",
+    "code": "ml",
+    "emojis": []
+  },
+  {
+    "name": "Maltese",
+    "code": "mt",
+    "emojis": []
+  },
+  {
+    "name": "Maori",
+    "code": "mi",
+    "emojis": []
+  },
+  {
+    "name": "Marathi",
+    "code": "mr",
+    "emojis": []
+  },
+  {
+    "name": "Mongolian",
+    "code": "mn",
+    "emojis": []
+  },
+  {
+    "name": "Burmese",
+    "code": "my",
+    "emojis": []
+  },
+  {
+    "name": "Nepali",
+    "code": "ne",
+    "emojis": []
+  },
+  {
+    "name": "Norwegian",
+    "code": "no",
+    "emojis": []
+  },
+  {
+    "name": "Nyanja",
+    "code": "ny",
+    "emojis": []
+  },
+  {
+    "name": "Odia",
+    "code": "or",
+    "emojis": []
+  },
+  {
+    "name": "Pashto",
+    "code": "ps",
+    "emojis": []
+  },
+  {
+    "name": "Persian",
+    "code": "fa",
+    "emojis": []
+  },
+  {
+    "name": "Polish",
+    "code": "pl",
+    "emojis": []
+  },
+  {
+    "name": "Portuguese",
+    "code": "pt",
+    "emojis": []
+  },
+  {
+    "name": "Punjabi",
+    "code": "pa",
+    "emojis": []
+  },
+  {
+    "name": "Romanian",
+    "code": "ro",
+    "emojis": []
+  },
+  {
+    "name": "Russian",
+    "code": "ru",
+    "emojis": []
+  },
+  {
+    "name": "Samoan",
+    "code": "sm",
+    "emojis": []
+  },
+  {
+    "name": "Scots Gaelic",
+    "code": "gd",
+    "emojis": []
+  },
+  {
+    "name": "Serbian",
+    "code": "sr",
+    "emojis": []
+  },
+  {
+    "name": "Sesotho",
+    "code": "st",
+    "emojis": []
+  },
+  {
+    "name": "Shona",
+    "code": "sn",
+    "emojis": []
+  },
+  {
+    "name": "Sindhi",
+    "code": "sd",
+    "emojis": []
+  },
+  {
+    "name": "Sinhala",
+    "code": "si",
+    "emojis": []
+  },
+  {
+    "name": "Slovak",
+    "code": "sk",
+    "emojis": []
+  },
+  {
+    "name": "Slovenian",
+    "code": "sl",
+    "emojis": []
+  },
+  {
+    "name": "Somali",
+    "code": "so",
+    "emojis": []
   },
   {
     "name": "Spanish",
@@ -15,15 +435,113 @@
     "emojis": ["🇪🇸", "🇲🇽"]
   },
   {
-    "name": "Korean",
-    "code": "ko"
+    "name": "Sundanese",
+    "code": "su",
+    "emojis": []
   },
   {
-    "name": "French",
-    "code": "fr"
+    "name": "Swahili",
+    "code": "sw",
+    "emojis": []
   },
   {
-    "name": "Russian",
-    "code": "ru"
+    "name": "Swedish",
+    "code": "sv",
+    "emojis": []
+  },
+  {
+    "name": "Swedish",
+    "code": "sv",
+    "emojis": []
+  },
+  {
+    "name": "Tagalog",
+    "code": "tl",
+    "emojis": []
+  },
+  {
+    "name": "Tajik",
+    "code": "tg",
+    "emojis": []
+  },
+  {
+    "name": "Tamil",
+    "code": "ta",
+    "emojis": []
+  },
+  {
+    "name": "Tatar",
+    "code": "tt",
+    "emojis": []
+  },
+  {
+    "name": "Telugu",
+    "code": "te",
+    "emojis": []
+  },
+  {
+    "name": "Thai",
+    "code": "th",
+    "emojis": []
+  },
+  {
+    "name": "Turkish",
+    "code": "tr",
+    "emojis": []
+  },
+  {
+    "name": "Turkmen",
+    "code": "tk",
+    "emojis": []
+  },
+  {
+    "name": "Ukrainian",
+    "code": "uk",
+    "emojis": []
+  },
+  {
+    "name": "Urdu",
+    "code": "ur",
+    "emojis": []
+  },
+  {
+    "name": "Uyghur",
+    "code": "ug",
+    "emojis": []
+  },
+  {
+    "name": "Uzbek",
+    "code": "uz",
+    "emojis": []
+  },
+  {
+    "name": "Vietnamese",
+    "code": "vi",
+    "emojis": []
+  },
+  {
+    "name": "Welsh",
+    "code": "cy",
+    "emojis": []
+  },
+  {
+    "name": "Xhosa",
+    "code": "xh",
+    "emojis": []
+  },
+  {
+    "name": "Yiddish",
+    "code": "yi",
+    "emojis": []
+  },
+  {
+    "name": "Yoruba",
+    "code": "yo",
+    "emojis": []
+  },
+  {
+    "name": "Zulu",
+    "code": "zu",
+    "emojis": []
   }
 ]
